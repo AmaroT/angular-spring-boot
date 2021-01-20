@@ -35,4 +35,4 @@ out/
 *.env
 
 ##Files ###
-notes-api/src/main/resources/application.properties
+/okta-spring-boot-2-angular-9-example/notes-api/src/main/resources/application.properties
