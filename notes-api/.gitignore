@@ -33,3 +33,6 @@ out/
 
 ### Okta ###
 *.env
+
+##Files ###
+notes-api/src/main/resources/application.properties
